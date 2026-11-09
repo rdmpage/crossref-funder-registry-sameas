@@ -12,6 +12,6 @@ The file `sameas.php` scans the `registry.rdf` file to extract DOIs for funders 
 <http://dx.doi.org/...> <https://schema.org/sameAs> <https://doi.org/…> .
 ```
 
-This menas that datasets that use “modern” DOIs (i.e., HTTPS prefix and root domain `doi.org`) can be included in SPARQL queries without having convert the identifiers in those SPARQL queries.
+This means that datasets that use “modern” DOIs (i.e., HTTPS prefix and root domain `doi.org`) can be included in SPARQL queries without having convert the identifiers in those SPARQL queries.
 
 
